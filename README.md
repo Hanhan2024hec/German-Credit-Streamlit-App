@@ -1,1 +1,1 @@
-# German-Credit-Streamlit-App
+# Streamlit-Project
